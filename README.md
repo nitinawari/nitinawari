@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Awari</h1>
 <p align="left"> <a href="https://twitter.com/nitinawari22" target="blank"><img src="https://img.shields.io/twitter/follow/nitinawari22?logo=twitter&style=for-the-badge" alt="nitinawari22" /></a> </p>
 
-- 🔭 I’m currently working on [OWASP BLT , NEST](https://github.com/OWASP-BLT/BLT)
+- 🔭 I’m currently working on [OWASP BLT](https://github.com/OWASP-BLT/BLT)  &  [OWASP NEST](https://github.com/OWASP/NEST)
 
 - 🌱 I’m currently learning **Python Django**
 
@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinawari&show_icons=true&locale=en" alt="nitinawari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinawari&" alt="nitinawari" /></p>
+
